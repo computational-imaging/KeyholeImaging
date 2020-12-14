@@ -28,7 +28,7 @@ opt = parser.parse_args()
 print(opt)
 
 # cuda = True if torch.cuda.is_available() else False
-cuda=False#Requires nvidia GPU. Works with 11GB of ram. Does not work with 6GB of ram.
+cuda=False#Requires nvidia GPU. Works with 10GB of ram. Does not work with 6GB of ram.
 
 n_t=768#Number of time bins used
 bin_resolution_t=16e-12#Size of each time bin, seconds

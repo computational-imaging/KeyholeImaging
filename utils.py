@@ -3,7 +3,6 @@ import torch
 import numpy as np
 import matplotlib.pyplot as plt
 import time
-from scipy.spatial.distance import cdist
 import torch
 
 c = 3e8
