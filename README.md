@@ -18,4 +18,4 @@ Demo.py will reconstruct the objects and their trajectories. Modify the "reconst
 Cuda is disabled by default. Enabling it will dramatically speed up the reconstructions, but requires a GPU with around 10GB of RAM.
 
 ## Comments and Questions
-Contact cmetzler@stanford.edu.
+Contact metzler@umd.edu
